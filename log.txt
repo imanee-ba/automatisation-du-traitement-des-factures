@@ -1,0 +1,123 @@
+2026-10-07 22:31:44,871 - INFO - Démarrage du robot RPA
+2026-10-07 22:31:44,986 - WARNING - Aucune facture valide trouvée
+2026-10-07 22:31:44,986 - INFO - Fin du traitement RPA
+2026-10-09 15:38:30,636 - INFO - Démarrage du robot RPA
+2026-10-09 15:38:30,638 - WARNING - Aucune facture valide trouvée
+2026-10-09 15:38:30,638 - INFO - Fin du traitement RPA
+2026-10-09 15:38:43,469 - INFO - Démarrage du robot RPA
+2026-10-09 15:38:43,470 - WARNING - Aucune facture valide trouvée
+2026-10-09 15:38:43,470 - INFO - Fin du traitement RPA
+2026-10-09 15:39:23,438 - INFO - Démarrage du robot RPA
+2026-10-09 15:39:23,439 - INFO - Facture détectée : facture1.xlsx
+2026-10-09 15:39:24,657 - ERROR - Erreur avec facture1.xlsx : La colonne Numero est manquante
+2026-10-09 15:39:24,658 - INFO - Facture détectée : facture2.xlsx
+2026-10-09 15:39:24,682 - ERROR - Erreur avec facture2.xlsx : La colonne Numero est manquante
+2026-10-09 15:39:24,682 - INFO - Facture détectée : facture3.xlsx
+2026-10-09 15:39:24,723 - ERROR - Erreur avec facture3.xlsx : La colonne Numero est manquante
+2026-10-09 15:39:24,724 - INFO - Facture détectée : facture4.xlsx
+2026-10-09 15:39:24,741 - ERROR - Erreur avec facture4.xlsx : La colonne Numero est manquante
+2026-10-09 15:39:24,741 - INFO - Facture détectée : facture5.xlsx
+2026-10-09 15:39:24,763 - ERROR - Erreur avec facture5.xlsx : La colonne Numero est manquante
+2026-10-09 15:39:24,764 - WARNING - Aucune facture valide trouvée
+2026-10-09 15:39:24,770 - INFO - Fin du traitement RPA
+2026-10-09 15:45:33,278 - INFO - Démarrage du robot RPA
+2026-10-09 15:45:33,279 - INFO - Facture détectée : facture1.xlsx
+2026-10-09 15:45:34,807 - INFO - F001 - ABC - 500.0 MAD - Normal
+2026-10-09 15:45:34,809 - INFO - facture1.xlsx déplacée vers Factures\Traitees\facture1.xlsx
+2026-10-09 15:45:34,810 - INFO - Facture détectée : facture2.xlsx
+2026-10-09 15:45:34,828 - INFO - F002 - Tech Maroc - 1500.0 MAD - À contrôler
+2026-10-09 15:45:36,391 - ERROR - Erreur email pour F002 : Connection unexpectedly closed
+2026-10-09 15:45:36,394 - INFO - facture2.xlsx déplacée vers Factures\A_controler\facture2.xlsx
+2026-10-09 15:45:36,394 - INFO - Facture détectée : facture3.xlsx
+2026-10-09 15:45:36,408 - INFO - F003 - Office Plus - 750.0 MAD - Normal
+2026-10-09 15:45:36,412 - INFO - facture3.xlsx déplacée vers Factures\Traitees\facture3.xlsx
+2026-10-09 15:45:36,412 - INFO - Facture détectée : facture4.xlsx
+2026-10-09 15:45:36,432 - INFO - F004 - InfoSystem - 2300.0 MAD - À contrôler
+2026-10-09 15:45:37,938 - ERROR - Erreur email pour F004 : Connection unexpectedly closed
+2026-10-09 15:45:37,942 - INFO - facture4.xlsx déplacée vers Factures\A_controler\facture4.xlsx
+2026-10-09 15:45:37,942 - INFO - Facture détectée : facture5.xlsx
+2026-10-09 15:45:37,965 - INFO - F005 - Electro Maroc - 1000.0 MAD - Normal
+2026-10-09 15:45:37,977 - INFO - facture5.xlsx déplacée vers Factures\Traitees\facture5.xlsx
+2026-10-09 15:45:38,064 - INFO - rapport_factures.xlsx créé avec succès
+2026-10-09 15:45:38,064 - INFO - Fin du traitement RPA
+2026-10-09 15:54:18,729 - INFO - Démarrage du robot RPA
+2026-10-09 15:54:18,732 - WARNING - Aucune facture valide trouvée
+2026-10-09 15:54:18,732 - INFO - Fin du traitement RPA
+2026-10-09 15:54:48,011 - INFO - Démarrage du robot RPA
+2026-10-09 15:54:48,011 - INFO - Facture détectée : facture1.xlsx
+2026-10-09 15:54:48,990 - ERROR - Erreur avec facture1.xlsx : La colonne N° est manquante
+2026-10-09 15:54:48,991 - INFO - Facture détectée : facture2.xlsx
+2026-10-09 15:54:49,009 - ERROR - Erreur avec facture2.xlsx : La colonne N° est manquante
+2026-10-09 15:54:49,009 - INFO - Facture détectée : facture3.xlsx
+2026-10-09 15:54:49,022 - ERROR - Erreur avec facture3.xlsx : La colonne N° est manquante
+2026-10-09 15:54:49,023 - INFO - Facture détectée : facture4.xlsx
+2026-10-09 15:54:49,042 - ERROR - Erreur avec facture4.xlsx : La colonne N° est manquante
+2026-10-09 15:54:49,043 - INFO - Facture détectée : facture5.xlsx
+2026-10-09 15:54:49,055 - ERROR - Erreur avec facture5.xlsx : La colonne N° est manquante
+2026-10-09 15:54:49,056 - WARNING - Aucune facture valide trouvée
+2026-10-09 15:54:49,056 - INFO - Fin du traitement RPA
+2026-10-09 15:55:04,593 - INFO - Démarrage du robot RPA
+2026-10-09 15:55:04,593 - INFO - Facture détectée : facture1.xlsx
+2026-10-09 15:55:06,946 - ERROR - Erreur avec facture1.xlsx : La colonne N° est manquante
+2026-10-09 15:55:06,946 - INFO - Facture détectée : facture2.xlsx
+2026-10-09 15:55:06,969 - ERROR - Erreur avec facture2.xlsx : La colonne N° est manquante
+2026-10-09 15:55:06,970 - INFO - Facture détectée : facture3.xlsx
+2026-10-09 15:55:06,986 - ERROR - Erreur avec facture3.xlsx : La colonne N° est manquante
+2026-10-09 15:55:06,986 - INFO - Facture détectée : facture4.xlsx
+2026-10-09 15:55:07,003 - ERROR - Erreur avec facture4.xlsx : La colonne N° est manquante
+2026-10-09 15:55:07,004 - INFO - Facture détectée : facture5.xlsx
+2026-10-09 15:55:07,025 - ERROR - Erreur avec facture5.xlsx : La colonne N° est manquante
+2026-10-09 15:55:07,025 - WARNING - Aucune facture valide trouvée
+2026-10-09 15:55:07,025 - INFO - Fin du traitement RPA
+2026-10-09 15:56:15,721 - INFO - Démarrage du robot RPA
+2026-10-09 15:56:15,722 - INFO - Facture détectée : facture1.xlsx
+2026-10-09 15:56:16,352 - INFO - F001 - ABC - 500.0 MAD - Normal
+2026-10-09 15:56:16,355 - INFO - facture1.xlsx déplacée vers Factures\Traitees\facture1.xlsx
+2026-10-09 15:56:16,355 - INFO - Facture détectée : facture2.xlsx
+2026-10-09 15:56:16,373 - INFO - F002 - Tech Maroc - 1500.0 MAD - À contrôler
+2026-10-09 15:56:21,016 - INFO - E-mail envoyé pour la facture F002
+2026-10-09 15:56:21,024 - INFO - facture2.xlsx déplacée vers Factures\A_controler\facture2.xlsx
+2026-10-09 15:56:21,024 - INFO - Facture détectée : facture3.xlsx
+2026-10-09 15:56:21,040 - INFO - F003 - Office Plus - 750.0 MAD - Normal
+2026-10-09 15:56:21,043 - INFO - facture3.xlsx déplacée vers Factures\Traitees\facture3.xlsx
+2026-10-09 15:56:21,044 - INFO - Facture détectée : facture4.xlsx
+2026-10-09 15:56:21,058 - INFO - F004 - InfoSystem - 2300.0 MAD - À contrôler
+2026-10-09 15:56:26,746 - INFO - E-mail envoyé pour la facture F004
+2026-10-09 15:56:26,754 - INFO - facture4.xlsx déplacée vers Factures\A_controler\facture4.xlsx
+2026-10-09 15:56:26,755 - INFO - Facture détectée : facture5.xlsx
+2026-10-09 15:56:26,799 - INFO - F005 - Electro Maroc - 1000.0 MAD - Normal
+2026-10-09 15:56:26,805 - INFO - facture5.xlsx déplacée vers Factures\Traitees\facture5.xlsx
+2026-10-09 15:56:26,852 - INFO - rapport_factures.xlsx créé avec succès
+2026-10-09 15:56:26,852 - INFO - Fin du traitement RPA
+2026-10-09 16:01:12,425 - INFO - Démarrage du robot RPA
+2026-10-09 16:01:12,426 - INFO - Facture détectée : factures_erreur.xlsx
+2026-10-09 16:01:13,080 - ERROR - Erreur avec factures_erreur.xlsx : Montant incorrect
+2026-10-09 16:01:13,080 - WARNING - Aucune facture valide trouvée
+2026-10-09 16:01:13,080 - INFO - Fin du traitement RPA
+2026-10-13 14:42:54,909 - INFO - Démarrage du robot RPA
+2026-10-13 14:42:54,909 - INFO - Facture détectée : factures_erreur.xlsx
+2026-10-13 14:42:55,887 - ERROR - Erreur avec factures_erreur.xlsx : Montant incorrect
+2026-10-13 14:42:55,888 - WARNING - Aucune facture valide trouvée
+2026-10-13 14:42:55,888 - INFO - Fin du traitement RPA
+2026-10-13 14:44:48,788 - INFO - Démarrage du robot RPA
+2026-10-13 14:44:48,788 - INFO - Facture détectée : facture1.xlsx
+2026-10-13 14:44:49,244 - INFO - F001 - ABC - 500.0 MAD - Normal
+2026-10-13 14:44:49,246 - INFO - facture1.xlsx déplacée vers Factures\Traitees\facture1.xlsx
+2026-10-13 14:44:49,246 - INFO - Facture détectée : facture2.xlsx
+2026-10-13 14:44:49,274 - INFO - F002 - Tech Maroc - 1500.0 MAD - À contrôler
+2026-10-13 14:44:52,914 - INFO - E-mail envoyé pour la facture F002
+2026-10-13 14:44:52,917 - INFO - facture2.xlsx déplacée vers Factures\A_controler\facture2.xlsx
+2026-10-13 14:44:52,917 - INFO - Facture détectée : facture3.xlsx
+2026-10-13 14:44:52,965 - INFO - F003 - Office Plus - 750.0 MAD - Normal
+2026-10-13 14:44:52,969 - INFO - facture3.xlsx déplacée vers Factures\Traitees\facture3.xlsx
+2026-10-13 14:44:52,969 - INFO - Facture détectée : facture4.xlsx
+2026-10-13 14:44:53,008 - INFO - F004 - InfoSystem - 2300.0 MAD - À contrôler
+2026-10-13 14:44:55,681 - INFO - E-mail envoyé pour la facture F004
+2026-10-13 14:44:55,686 - INFO - facture4.xlsx déplacée vers Factures\A_controler\facture4.xlsx
+2026-10-13 14:44:55,686 - INFO - Facture détectée : facture5.xlsx
+2026-10-13 14:44:55,763 - INFO - F005 - Electro Maroc - 1000.0 MAD - Normal
+2026-10-13 14:44:55,780 - INFO - facture5.xlsx déplacée vers Factures\Traitees\facture5.xlsx
+2026-10-13 14:44:55,781 - INFO - Facture détectée : factures_erreur.xlsx
+2026-10-13 14:44:55,802 - ERROR - Erreur avec factures_erreur.xlsx : Montant incorrect
+2026-10-13 14:44:55,870 - INFO - rapport_factures.xlsx créé avec succès
+2026-10-13 14:44:55,870 - INFO - Fin du traitement RPA
